@@ -1,7 +1,3 @@
-Here's a README file template for your GitHub repository that describes the Google Calendar integration code you worked on:
-
----
-
 # Google Calendar Integration
 
 This repository contains code that integrates with Google Calendar, allowing users to manage their events programmatically. The integration is built using Python and leverages the Google Calendar API to perform various operations such as creating, adding attachments, updating, and deleting events.
